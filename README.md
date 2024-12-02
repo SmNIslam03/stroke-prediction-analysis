@@ -3,3 +3,8 @@ The aim of this project is to predict the probability of having a stroke using a
 
 # Dataset
 The dataset utilized can be found at Kaggle: [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data)
+
+# Setup Instructions
+To isolate project dependencies, create a virtual environment:
+```bash
+echo python -m venv venv
