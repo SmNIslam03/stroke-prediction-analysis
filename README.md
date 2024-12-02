@@ -7,4 +7,4 @@ The dataset utilized can be found at Kaggle: [Stroke Prediction Dataset](https:/
 # Setup Instructions
 To isolate project dependencies, create a virtual environment:
 ```bash
-echo python -m venv venv
+python -m venv venv
