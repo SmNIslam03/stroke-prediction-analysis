@@ -17,3 +17,11 @@ Activate the virtual environment with the following command:
 ```bash
 source ./venv/bin/activate
 ```
+
+3. Installing Required Libraries
+Install all necessary libraries by running:
+```bash
+pip install -r requirements.txt
+```
+
+4. Running the Prediction Notebook
