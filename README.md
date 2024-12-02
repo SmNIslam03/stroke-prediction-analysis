@@ -6,23 +6,23 @@ The dataset utilized can be found at Kaggle: [Stroke Prediction Dataset](https:/
 
 # Setup Instructions
 
-1. Creating the Virtual Environment  
+## 1. Creating the Virtual Environment  
 
 To isolate project dependencies, create a virtual environment:  
 ```bash
 python -m venv venv
 ```
 
-3. Activating the Virtual Environment
+## 2. Activating the Virtual Environment
    Activate the virtual environment with the following command:
 ```bash
 source ./venv/bin/activate
 ```
 
-3. Installing Required Libraries
+## 3. Installing Required Libraries
    Install all necessary libraries by running:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Running the Prediction Notebook
+## 4. Running the Prediction Notebook
