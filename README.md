@@ -7,11 +7,13 @@ The dataset utilized can be found at Kaggle: [Stroke Prediction Dataset](https:/
 # Setup Instructions
 
 1. Creating the Virtual Environment  
-   To isolate project dependencies, create a virtual environment:  
-   ```bash
-   python -m venv venv
 
-2. Activating the Virtual Environment
+To isolate project dependencies, create a virtual environment:  
+```bash
+python -m venv venv
+```
+
+3. Activating the Virtual Environment
    Activate the virtual environment with the following command:
 ```bash
 source ./venv/bin/activate
