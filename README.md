@@ -5,6 +5,15 @@ The aim of this project is to predict the probability of having a stroke using a
 The dataset utilized can be found at Kaggle: [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data)
 
 # Setup Instructions
+
+1. Creating the Virtual Environment
 To isolate project dependencies, create a virtual environment:
 ```bash
 python -m venv venv
+```
+
+2. Activating the Virtual Environment
+Activate the virtual environment with the following command:
+```bash
+source ./venv/bin/activate
+```
