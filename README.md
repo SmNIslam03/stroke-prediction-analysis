@@ -33,6 +33,6 @@ Open and execute the `stroke_prediction.ipynb` Jupyter Notebook cell by cell to 
 
 ---
 
-## [Video Demo](#)
+## [Video Demo](https://drive.google.com/drive/u/1/home)
 
 Feel free to reach out if you have any questions or encounter any issues with the setup or execution.
