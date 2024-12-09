@@ -28,3 +28,4 @@ pip install -r requirements.txt
 ```
 
 4. **Running the Prediction Notebook**
+   Open and execute the stroke_prediction.ipynb Jupyter Notebook cell by cell to train and evaluate the model.
