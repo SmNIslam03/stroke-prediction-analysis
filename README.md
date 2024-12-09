@@ -30,3 +30,9 @@ pip install -r requirements.txt
 4. **Running the Prediction Notebook**
 
 Open and execute the `stroke_prediction.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
+
+---
+
+## [Video Demo](#)
+
+Feel free to reach out if you have any questions or encounter any issues with the setup or execution.
