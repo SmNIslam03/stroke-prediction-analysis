@@ -31,6 +31,8 @@ pip install -r requirements.txt
 
 Open and execute the `stroke_prediction.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
 
+Note: Make sure you have downloaded the dataset from kaggle and have the `.csv` file in the same folder as the `.ipynb` file
+
 ---
 
 ## [Video Demo](https://drive.google.com/file/d/12_gIqslFoZub4ov2FFF0iADL46HX2WNc/view?usp=drive_link)
